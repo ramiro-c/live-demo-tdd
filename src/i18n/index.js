@@ -1,1 +1,1 @@
-export const DEFAULT_MESSAGE = "Todavia no hay nada!";
+export const DEFAULT_MESSAGE = "Todavia no hay ninguna frase!";
